@@ -1,0 +1,28 @@
+:root {
+    --mainColor : #252734;
+    --secondaryColor : #333646;
+    --assentColor : #FF9100;
+}
+
+body {
+    background-color: var(--mainColor);
+    min-height:900px;
+    
+}
+
+#hero {
+    color:rgb(0, 130, 243);
+    
+}
+#hero h1 {
+    color: #FF9100;
+}
+h2 {
+    color: #FF9100;
+    margin: auto;
+    
+}
+
+li {
+    color: azure;
+}
